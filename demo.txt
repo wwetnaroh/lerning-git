@@ -1,2 +1,6 @@
 hello, world
+<<<<<<< HEAD
 I love Chuling Xu
+=======
+I am Max!
+>>>>>>> 8e87f5a (max)
